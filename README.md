@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Anit Sarkar
 
-<!--
-**anitgt/anitgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently a Computer Science student with a passion for learning, building, and growing in the world of tech.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 👨‍💻 I’m actively exploring the fields of **Software Development**, **AI/ML**, and **App Development**
+- 💡 I love solving real-world problems with code and collaborating on interesting projects
+- 🌱 Currently learning:
+  - Frontend Development (React, TailwindCSS)
+  - Android App Development (Kotlin, Jetpack Compose)
+  - AI/ML basics (Python, Scikit-learn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anit-sarkar&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anit-sarkar&theme=radical" width="48%" />
+</p>
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/anit-sarkar](https://linkedin.com/in/anit-sarkar)
+- Email: anit7795@gmail.com
+
+---
+
+⭐️ Fun fact: I believe learning never stops — always curious, always coding.
