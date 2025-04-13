@@ -18,8 +18,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anit-sarkar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anit-sarkar&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anitgt&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitgt&theme=radical" width="48%" />
 </p>
 
 ## 📫 Let's Connect
