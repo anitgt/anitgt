@@ -7,8 +7,6 @@
 - 💡 I love solving real-world problems with code and collaborating on interesting projects
 - 🌱 Currently learning:
   - Frontend Development (React, TailwindCSS)
-  - Android App Development (Kotlin, Jetpack Compose)
-  - AI/ML basics (Python, Scikit-learn)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
