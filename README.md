@@ -1,29 +1,18 @@
-# 👋 Hi, I'm Anit Sarkar
+# 💫 About Me:
+# 👋 Hi there, I'm Anit Sarkar!<br><br>🎓 I'm a Computer Science student with a passion for **learning, building**, and **growing** in the world of tech.<br><br>## 🚀 About Me<br><br>- 👨‍💻 Actively exploring **Software Development**, **AI/ML**, and **App Development**<br>- 💡 I enjoy solving real-world problems through code and collaborating on meaningful projects<br>- 🌱 Currently diving deep into **Full-Stack Web Development (MERN stack)**<br><br>---<br><br>Let's connect and build something amazing together! 🚀<br>
 
-🎓 Currently a Computer Science student with a passion for learning, building, and growing in the world of tech.
 
-## 🚀 About Me
-- 👨‍💻 I’m actively exploring the fields of **Software Development**, **AI/ML**, and **App Development**
-- 💡 I love solving real-world problems with code and collaborating on interesting projects
-- 🌱 Currently learning:
-  - Frontend Development (React, TailwindCSS)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anit-sarkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anit7795@gmail.com) 
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anitgt&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitgt&theme=radical" width="48%" />
-</p>
-
-## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/anit-sarkar](https://linkedin.com/in/anit-sarkar)
-- Email: anit7795@gmail.com
+# 💻 Tech Stack:
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anitgt&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anitgt&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anitgt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=anitgt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐️ Fun fact: I believe learning never stops — always curious, always coding.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
